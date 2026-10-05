@@ -1,0 +1,27 @@
+{
+    "name": "Week04_Express",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "tests": "echo 'Error: No test specified'",
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "keywords": [
+        "express",
+        "node vs nodemon",
+        "query vs params"
+    ],
+    "author": "Yatin Korat",
+    "license": "ISC",
+    "description": "Practice using Express framework with node",
+    "Dependencies": {
+        "express": "^5.1.0"
+    },
+    "devDependencies": {
+        "nodemon": "3.1.14"
+    },
+    "dependencies": {
+        "express": "^5.2.1"
+    }
+}
